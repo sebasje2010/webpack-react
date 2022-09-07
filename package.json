@@ -1,7 +1,7 @@
 {
   "name": "curso-webpack-react",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is a project to practice all of the configuration needed in webpack to create a base React project",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
